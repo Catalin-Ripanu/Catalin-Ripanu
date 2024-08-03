@@ -12,7 +12,7 @@ Meanwhile:
 
 - Pursuing a Master's Degree in Artificial Intelligence at POLYTECHNIC Univ. of Bucharest (2024 - 2026)
 
-- University Graduate Teaching & Research Assistant , POLYTECHNIC Univ. of Bucharest (2024 - ?)
+- University Graduate Teaching & Research Assistant, POLYTECHNIC Univ. of Bucharest (2024 - ?)
 
 Relevant Coursework:
 
