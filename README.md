@@ -49,7 +49,7 @@ Relevant Coursework:
     - Elements of Computer Graphics (EGC, prof. Victor Asavei)
     - Mathematics 6 / Functional Analysis (M6, prof. Luminița Costache)
     - Design with Micro-Processors (PM, prof. Daniel Rosner)
-    - Computer Architecture (ASC, prof. Voichița Iancu)
+    - Computer Architectures (ASC, prof. Voichița Iancu) | [Homework1](https://github.com/CatalinACS/HW1_ASC)
     - Operating Systems (SO, prof. Răzvan Deaconescu)
     - Software Engineering (IP, prof. Florica Moldoveanu)
     - Data Basis 1 (BD1, prof. Alexandru Boicea)
@@ -62,7 +62,7 @@ Relevant Coursework:
     - Systems of Programs for Computer Networks (SPRC - C3, prof. Florin Pop)
     - Machine Learning (ÎAut - C4, prof. Adina Florea)
     - Operating Systems 2 (SO2 - C3, prof. Alexandru Radovici & prof. Răzvan Deaconescu)
-    - Instruments for Software Development (IDP - C3, prof. Cătălin Goșman)
+    - Instruments for Software Development (IDP - C3, prof. Cătălin Goșman) | [Homework1](https://github.com/CatalinACS/HW1_IDP)
    
 - Master's Degree:
   - TODO
