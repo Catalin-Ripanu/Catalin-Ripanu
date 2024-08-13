@@ -4,7 +4,7 @@ An individual interested in Quantum Artificial Intelligence & Physics and all of
 
 Relevant Education & Work Experience:
 
-- Bachelor's Degree in Computer Science @ Engineering (GPA: 3.92 / 4), POLYTECHNIC Univ. of Bucharest (2020 - 2024)
+- [Bachelor's Degree](https://github.com/CatalinACS/Bachelor_Thesis) in Computer Science @ Engineering (GPA: 3.92 / 4), POLYTECHNIC Univ. of Bucharest (2020 - 2024)
 
 - University Undergraduate Teaching Assistant, POLYTECHNIC Univ. of Bucharest (2022 - 2024)
 
@@ -46,7 +46,7 @@ Relevant Coursework:
     - Formal Languages and Automata (LFA, prof. Iarina Mocanu)
     - Local Networks (RL, prof. Răzvan Rughiniș)
     - Numerical Computers 2 (CN2, prof. Decebal Popescu) | [Homework1](https://github.com/CatalinACS/HW1_CN2)
-    - Elements of Computer Graphics (EGC, prof. Victor Asavei) | [Homework2](https://github.com/CatalinACS/HW2_POO)
+    - Elements of Computer Graphics (EGC, prof. Victor Asavei) | [Homework2](https://github.com/CatalinACS/HW2_EGC)
     - Mathematics 6 / Functional Analysis (M6, prof. Luminița Costache)
     - Design with Micro-Processors (PM, prof. Daniel Rosner)
     - Computer Architectures (ASC, prof. Voichița Iancu) | [Homework1](https://github.com/CatalinACS/HW1_ASC)
