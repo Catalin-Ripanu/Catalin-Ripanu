@@ -55,13 +55,13 @@ Complete Coursework:
     - Data Basis 1 (BD1, prof. Alexandru Boicea)
   
   - Year 4 (Seria C3, 2023 - 2024)
-    - Artificial Intelligence (IA - C3, prof. Adina Florea)
-    - Compilers (CPL - C3, prof. Mihnea Muraru)
-    - Parallel Architectures and Manipulations (APP - C1, prof. Nicolae Țăpuș)
-    - Design of Private Neural Networks and Privacy (PR - C1, prof. Răzvan Rughiniș)
-    - Systems of Programs for Computer Networks (SPRC - C3, prof. Florin Pop)
-    - Machine Learning (ÎAut - C4, prof. Adina Florea)
-    - Operating Systems 2 (SO2 - C3, prof. Alexandru Radovici & prof. Răzvan Deaconescu)
+    - Artificial Intelligence (IA - C3, prof. Adina Florea) | [Homework1](https://github.com/CatalinACS/HW1_IA) [Homework2](https://github.com/CatalinACS/HW2_IA)
+    - Compilers (CPL - C3, prof. Mihnea Muraru) | [Homework1](https://github.com/CatalinACS/HW1_CPL) [Homework2](https://github.com/CatalinACS/HW2_CPL)
+    - Parallel Architectures and Manipulations (APP - C1, prof. Nicolae Țăpuș) | [Homework1](https://github.com/CatalinACS/HW1_APP)
+    - Design of Private Neural Networks and Privacy (PR - C1, prof. Răzvan Rughiniș) | [Homework1](https://github.com/CatalinACS/HW1_PR)
+    - Systems of Programs for Computer Networks (SPRC - C3, prof. Florin Pop) | [Homework1](https://github.com/CatalinACS/HW1_SPRC) [Homework2](https://github.com/CatalinACS/HW2_SPRC) [Homework3](https://github.com/CatalinACS/HW3_SPRC)
+    - Machine Learning (ÎAut - C4, prof. Adina Florea) | [Homework1](https://github.com/CatalinACS/HW1_IAut) [Homework2](https://github.com/CatalinACS/HW2_IAut)
+    - Operating Systems 2 (SO2 - C3, prof. Alex Radovici & Răzvan Deaconescu) | [Homework1](https://github.com/CatalinACS/HW1_SO2) [Homework2](https://github.com/CatalinACS/HW2_SO2) [Homework3](https://github.com/CatalinACS/HW3_SO2) [Homework4](https://github.com/CatalinACS/HW4_SO2)
     - Instruments for Software Development (IDP - C3, prof. Cătălin Goșman) | [Homework1](https://github.com/CatalinACS/HW1_IDP)
    
 - Master's Degree:
