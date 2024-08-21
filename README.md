@@ -14,7 +14,7 @@ Meanwhile:
 
 - University Graduate Teaching & Research Assistant, POLYTECHNIC Univ. of Bucharest (2024 - ?)
 
-Relevant Coursework:
+Complete Coursework:
 
 - Bachelor's Degree
   - Year 1 (Seria CC, 2020 - 2021):
