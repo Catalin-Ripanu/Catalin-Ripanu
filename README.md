@@ -51,7 +51,7 @@ Complete Coursework:
     - Design with Micro-Processors (PM, prof. Daniel Rosner)
     - Computer Architectures (ASC, prof. Voichița Iancu) | [Homework1](https://github.com/CatalinACS/HW1_ASC)
     - Operating Systems (SO, prof. Răzvan Deaconescu)
-    - Software Engineering (IP, prof. Florica Moldoveanu)
+    - Software Engineering (IP, prof. Florica Moldoveanu) | [Project](https://github.com/CatalinACS/HW1_IP)
     - Data Basis 1 (BD1, prof. Alexandru Boicea)
   
   - Year 4 (Seria C3, 2023 - 2024)
