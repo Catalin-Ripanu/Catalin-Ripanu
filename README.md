@@ -31,7 +31,7 @@ Complete Coursework:
   
   - Year 2 (Seria CC, 2021 - 2022)
     - Analysis of Algorithms (AA, prof. Andrei Mogoș)
-    - Object Oriented Programming (POO, prof. Carmen Odubășteanu) | [Project](https://github.com/CatalinACS/HProject_POO)
+    - Object Oriented Programming (POO, prof. Carmen Odubășteanu) | [Project](https://github.com/CatalinACS/Project_POO)
     - Introduction in Computer Organisation and Assembly Language (IOCLA, prof. Răzvan Deaconescu)
     - Theory of Systems (TS, prof. Ioan-Cezar Corîci)
     - Mathematics 4 / Discrete Mathematics (M4, prof. Mircea Sularia)
