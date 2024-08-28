@@ -18,16 +18,16 @@ Complete Coursework:
 
 - Bachelor's Degree
   - Year 1 (Seria CC, 2020 - 2021):
-    - Computer programming (PC, prof. Carmen Odubășteanu)
+    - Computer programming (PC, prof. Carmen Odubășteanu) [Homework1](https://github.com/CatalinACS/HW1_PC) [Homework2](https://github.com/CatalinACS/HW2_PC)
     - Use of Operating Systems (USO, prof. Răzvan Deaconescu)
     - Logical Design (PL, prof. Anca Morar)
     - Mathematics 1 / Mathematical Real Analysis (M1, prof. Mircea Olteanu)
     - Mathematics 2 / Linear Algebra, Analytic Geometry and Differential Equations (M2, prof. Adriana Bălan) 
-    - Introduction in Informatics (II, prof. Mihai Chiroiu)
+    - Introduction in Informatics (II, prof. Mihai Chiroiu) [Homework1](https://github.com/CatalinACS/HW1_II)
     - Mathematics 3 / Complex Analysis & Probability Theory and Statistics (M3, prof. Luminița Costache)
-    - Computational Physics (FC, prof. Adrian Radu)
-    - Data Structures (SD, prof. Radu Șerban)
-    - Numerical Methods (MN, prof. Florin Pop)
+    - Computational Physics (FC, prof. Adrian Radu) [Homework1](https://github.com/CatalinACS/HW1_FC) [Homework2](https://github.com/CatalinACS/HW2_FC) [Homework3](https://github.com/CatalinACS/HW3_FC)
+    - Data Structures (SD, prof. Radu Șerban) [Homework1](https://github.com/CatalinACS/HW1_SD) [Homework2](https://github.com/CatalinACS/HW2_SD) [Homework3](https://github.com/CatalinACS/HW3_SD)
+    - Numerical Methods (MN, prof. Florin Pop) [Homework1](https://github.com/CatalinACS/HW1_MN)
   
   - Year 2 (Seria CC, 2021 - 2022)
     - Analysis of Algorithms (AA, prof. Andrei Mogoș)
