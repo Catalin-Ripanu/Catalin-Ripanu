@@ -1,6 +1,8 @@
 <img src=https://github.com/CatalinACS/CatalinACS/raw/main/CatalinACS.svg/>
 
-Website: https://CatalinACS.github.io/
+Website [here](https://CatalinACS.github.io/)
+
+Curriculum Vitae [here](https://github.com/CatalinACS/curriculum-vitae/blob/main/__CV_CR_.pdf)
 
 An individual interested in Quantum Artificial Intelligence & Physics and all of their related fields, domains and directions.
 
