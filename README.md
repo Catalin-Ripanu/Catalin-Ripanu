@@ -36,7 +36,7 @@ Complete Coursework:
   - Year 2 (Seria CC, 2021 - 2022)
     - Analysis of Algorithms (AA, prof. Andrei Mogoș)
     - Object Oriented Programming (POO, prof. Carmen Odubășteanu) | [Project](https://github.com/CatalinACS/Project_POO)
-    - Introduction in Computer Organisation and Assembly Language (IOCLA, prof. Răzvan Deaconescu)
+    - Introduction in Computer Organisation and Assembly Language (IOCLA, prof. Răzvan Deaconescu) | [Homework1](https://github.com/CatalinACS/HW1_IOCLA) [Homework2](https://github.com/CatalinACS/HW2_IOCLA) [Homework3](https://github.com/CatalinACS/HW3_IOCLA)
     - Theory of Systems (TS, prof. Ioan-Cezar Corîci)
     - Mathematics 4 / Discrete Mathematics (M4, prof. Mircea Sularia)
     - Analog Electronics (EEA, prof. Daniel Rosner)
