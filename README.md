@@ -1,10 +1,10 @@
 <img src=https://github.com/CatalinACS/CatalinACS/raw/main/CatalinACS.svg/>
 
+An individual interested in Quantum Artificial Intelligence & Physics and all of their related fields, domains and directions.
+
 Website [here](https://CatalinACS.github.io/)
 
 Curriculum Vitae [here](https://github.com/CatalinACS/curriculum-vitae/blob/main/__CV_CR_.pdf)
-
-An individual interested in Quantum Artificial Intelligence & Physics and all of their related fields, domains and directions.
 
 Relevant Education & Work Experience:
 
@@ -34,7 +34,7 @@ Complete Coursework:
     - Numerical Methods (MN, prof. Florin Pop) [Homework1](https://github.com/CatalinACS/HW1_MN)
   
   - Year 2 (Seria CC, 2021 - 2022)
-    - Analysis of Algorithms (AA, prof. Andrei Mogoș)
+    - Analysis of Algorithms (AA, prof. Andrei Mogoș) [Homework](https://github.com/CatalinACS/HW_AA)
     - Object Oriented Programming (POO, prof. Carmen Odubășteanu) | [Project](https://github.com/CatalinACS/Project_POO)
     - Introduction in Computer Organisation and Assembly Language (IOCLA, prof. Răzvan Deaconescu) | [Homework1](https://github.com/CatalinACS/HW1_IOCLA) [Homework2](https://github.com/CatalinACS/HW2_IOCLA) [Homework3](https://github.com/CatalinACS/HW3_IOCLA)
     - Theory of Systems (TS, prof. Ioan-Cezar Corîci)
