@@ -5,7 +5,7 @@
       <g>
         <g transform="">
           <g id="Y6Vo6JWH_origin" transform="skewX(0) skewY(0)">
-            <g filter="" style="fill:rgb(255, 255, 255)">
+            <g filter="" style="fill:rgb(0,0,0)">
               <path id="shapepath_Y6Vo6JWH" d="M0,0H1394V516H0Z"/>
             </g>
           </g>
@@ -19,8 +19,8 @@
       <defs/>
       <defs>
         <linearGradient x1="0" y1="0" x2="0" y2="1" id="OTz5CfXi_stroke">
-          <stop offset="0" stop-color="#0D47A1FF"/>
-          <stop offset="1" stop-color="#00BCD4FF"/>
+          <stop offset="0" stop-color="#FF0000"/>
+          <stop offset="1" stop-color="#FF0000"/>
         </linearGradient>
       </defs>
       <g>
@@ -40,8 +40,8 @@
       <defs/>
       <defs>
         <linearGradient x1="0" y1="0" x2="0" y2="1" id="I4n2tcG4_stroke">
-          <stop offset="0" stop-color="#0D47A1FF"/>
-          <stop offset="1" stop-color="#00BCD4FF"/>
+          <stop offset="0" stop-color="#FF0000"/>
+          <stop offset="1" stop-color="#FF0000"/>
         </linearGradient>
       </defs>
       <g>
@@ -61,8 +61,8 @@
       <defs/>
       <defs>
         <linearGradient x1="0" y1="0" x2="0" y2="1" id="rILLJX7u_stroke">
-          <stop offset="0" stop-color="#0D47A1FF"/>
-          <stop offset="1" stop-color="#00BCD4FF"/>
+          <stop offset="0" stop-color="#FF0000"/>
+          <stop offset="1" stop-color="#FF0000"/>
         </linearGradient>
       </defs>
       <g>
@@ -82,8 +82,8 @@
       <defs/>
       <defs>
         <linearGradient x1="0" y1="0" x2="0" y2="1" id="Q1nMV0yP_stroke">
-          <stop offset="0" stop-color="#0D47A1FF"/>
-          <stop offset="1" stop-color="#00BCD4FF"/>
+          <stop offset="0" stop-color="#FF0000"/>
+          <stop offset="1" stop-color="#FF0000"/>
         </linearGradient>
       </defs>
       <g>
@@ -103,8 +103,8 @@
       <defs/>
       <defs>
         <linearGradient x1="0" y1="0" x2="0" y2="1" id="hKVpNnQ6_fill">
-          <stop offset="0" stop-color="#0d47a1ff"/>
-          <stop offset="1" stop-color="#00BCD4FF"/>
+          <stop offset="0" stop-color="#000000"/>
+          <stop offset="1" stop-color="#FF0000"/>
         </linearGradient>
       </defs>
       <g>
@@ -132,8 +132,8 @@
       <defs/>
       <defs>
         <linearGradient x1="0" y1="0" x2="0" y2="1" id="VmmVaFgR_fill">
-          <stop offset="0" stop-color="#0D47A1FF"/>
-          <stop offset="1" stop-color="#00bcd4ff"/>
+          <stop offset="0" stop-color="#FF0000"/>
+          <stop offset="1" stop-color="#000000"/>
         </linearGradient>
       </defs>
       <g>
@@ -144,70 +144,59 @@
               <g>
                 <g>
                   <g alignment-baseline="baseline" style="font:700 47.004px Arial">
-                    <text x="0" y="42.30357610776862">C <animateTransform id="DKmwdABf" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; DKmwdABf.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="10" y="42.30357610776862">C <animateTransform id="DKmwdABf" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; DKmwdABf.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="UXmZfu3K" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0;0.0625;1" begin="0s; UXmZfu3K.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="dkIb4ru9" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; dkIb4ru9.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="33.95000076293945" y="42.30357610776862">Ă <animateTransform id="EZmXmRv2" attributeName="transform" type="translate" values="15.675000190734863,28.202384071845746;15.675000190734863,28.202384071845746" keyTimes="0;1" begin="0s; EZmXmRv2.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="43.95000076293945" y="42.30357610776862">Ă <animateTransform id="EZmXmRv2" attributeName="transform" type="translate" values="15.675000190734863,28.202384071845746;15.675000190734863,28.202384071845746" keyTimes="0;1" begin="0s; EZmXmRv2.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="baNDZa0q" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.0625;0.125;1" begin="0s; baNDZa0q.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="WqQg5Wi8" attributeName="transform" type="translate" values="-15.675000190734863,-28.202384071845746;-15.675000190734863,-28.202384071845746" keyTimes="0;1" begin="0s; WqQg5Wi8.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="65.30000114440918" y="42.30357610776862">T <animateTransform id="DoWLeH2B" attributeName="transform" type="translate" values="14.358333587646484,28.202384071845746;14.358333587646484,28.202384071845746" keyTimes="0;1" begin="0s; DoWLeH2B.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="75.30000114440918" y="42.30357610776862">T <animateTransform id="DoWLeH2B" attributeName="transform" type="translate" values="14.358333587646484,28.202384071845746;14.358333587646484,28.202384071845746" keyTimes="0;1" begin="0s; DoWLeH2B.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="l9tiE8hB" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.125;0.1875;1" begin="0s; l9tiE8hB.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="yvhGbwpa" attributeName="transform" type="translate" values="-14.358333587646484,-28.202384071845746;-14.358333587646484,-28.202384071845746" keyTimes="0;1" begin="0s; yvhGbwpa.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="94.01666831970215" y="42.30357610776862">Ă <animateTransform id="WkboEScM" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; WkboEScM.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="104.01666831970215" y="42.30357610776862">Ă <animateTransform id="WkboEScM" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; WkboEScM.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="lqwIutfT" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.1875;0.25;1" begin="0s; lqwIutfT.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="s1epYwth" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; s1epYwth.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="127.9666690826416" y="42.30357610776862">L <animateTransform id="wsHCeOBM" attributeName="transform" type="translate" values="14.975000381469727,28.202384071845746;14.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; wsHCeOBM.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="137.9666690826416" y="42.30357610776862">L <animateTransform id="wsHCeOBM" attributeName="transform" type="translate" values="14.975000381469727,28.202384071845746;14.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; wsHCeOBM.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="OiWp5Dko" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.25;0.3125;1" begin="0s; OiWp5Dko.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="Wh5Rr0P4" attributeName="transform" type="translate" values="-14.975000381469727,-28.202384071845746;-14.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; Wh5Rr0P4.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="157.91666984558105" y="42.30357610776862"> I<animateTransform id="UOISGnI9" attributeName="transform" type="translate" values="6.525000095367432,28.202384071845746;6.525000095367432,28.202384071845746" keyTimes="0;1" begin="0s; UOISGnI9.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="167.91666984558105" y="42.30357610776862"> I<animateTransform id="UOISGnI9" attributeName="transform" type="translate" values="6.525000095367432,28.202384071845746;6.525000095367432,28.202384071845746" keyTimes="0;1" begin="0s; UOISGnI9.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="AbLhsYC3" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.3125;0.375;1" begin="0s; AbLhsYC3.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="UfJLHpOc" attributeName="transform" type="translate" values="-6.525000095367432,-28.202384071845746;-6.525000095367432,-28.202384071845746" keyTimes="0;1" begin="0s; UfJLHpOc.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="174.96667003631592" y="42.30357610776862"> N<animateTransform id="st7Wegat" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; st7Wegat.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="184.96667003631592" y="42.30357610776862"> N<animateTransform id="st7Wegat" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; st7Wegat.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="pgl6xPqa" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.375;0.4375;1" begin="0s; pgl6xPqa.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="vRsl1n5P" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; vRsl1n5P.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="228.91667079925537" y="42.30357610776862"> R<animateTransform id="qlnidfsE" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; qlnidfsE.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="238.91667079925537" y="42.30357610776862"> R<animateTransform id="qlnidfsE" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; qlnidfsE.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="jv8u4X7s" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.4375;0.5;1" begin="0s; jv8u4X7s.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="z9uSTOZz" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; z9uSTOZz.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="262.86667156219482" y="42.30357610776862"> Î<animateTransform id="vLXc4UyF" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; vLXc4UyF.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="272.86667156219482" y="42.30357610776862"> Î<animateTransform id="vLXc4UyF" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; vLXc4UyF.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="JmoBlhSn" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.5;0.5625;1" begin="0s; JmoBlhSn.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="UGvrV7IY" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; UGvrV7IY.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="276.8166723251343" y="42.30357610776862"> P<animateTransform id="hz1cIHlU" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; hz1cIHlU.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="286.8166723251343" y="42.30357610776862"> P<animateTransform id="hz1cIHlU" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; hz1cIHlU.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="wCoYgcwm" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.5625;0.625;1" begin="0s; wCoYgcwm.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="D68OYTu7" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; D68OYTu7.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="302.76667308807373" y="42.30357610776862"> A<animateTransform id="VuPeijdL" attributeName="transform" type="translate" values="6.525000095367432,28.202384071845746;6.525000095367432,28.202384071845746" keyTimes="0;1" begin="0s; VuPeijdL.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="312.76667308807373" y="42.30357610776862"> A<animateTransform id="VuPeijdL" attributeName="transform" type="translate" values="6.525000095367432,28.202384071845746;6.525000095367432,28.202384071845746" keyTimes="0;1" begin="0s; VuPeijdL.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="EGiCE78U" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.625;0.6875;1" begin="0s; EGiCE78U.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="VhmHud2G" attributeName="transform" type="translate" values="-6.525000095367432,-28.202384071845746;-6.525000095367432,-28.202384071845746" keyTimes="0;1" begin="0s; VhmHud2G.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="337.8166732788086" y="42.30357610776862"> N<animateTransform id="ITxKJq8d" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; ITxKJq8d.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="347.8166732788086" y="42.30357610776862"> N<animateTransform id="ITxKJq8d" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; ITxKJq8d.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="oc34eZE0" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.6875;0.75;1" begin="0s; oc34eZE0.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="n5UXgCI7" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; n5UXgCI7.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="370.76667404174805" y="42.30357610776862"> U<animateTransform id="ciSjVoPj" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; ciSjVoPj.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="380.76667404174805" y="42.30357610776862"> U<animateTransform id="ciSjVoPj" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; ciSjVoPj.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="uTdjA2kY" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.75;0.8125;1" begin="0s; uTdjA2kY.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="SrI7Z5vI" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; SrI7Z5vI.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="410.7166748046875" y="42.30357610776862"> - A<animateTransform id="e9ELakIz" attributeName="transform" type="translate" values="18.274999618530273,28.202384071845746;18.274999618530273,28.202384071845746" keyTimes="0;1" begin="0s; e9ELakIz.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
-<animateTransform id="mz6qdwG4" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.8125;0.875;1" begin="0s; mz6qdwG4.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
-<animateTransform id="zhJtkSUT" attributeName="transform" type="translate" values="-18.274999618530273,-28.202384071845746;-18.274999618530273,-28.202384071845746" keyTimes="0;1" begin="0s; zhJtkSUT.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
-</text>
-                    <text x="469.26667404174805" y="42.30357610776862"> C<animateTransform id="kzErQhoE" attributeName="transform" type="translate" values="6.525000095367432,28.202384071845746;6.525000095367432,28.202384071845746" keyTimes="0;1" begin="0s; kzErQhoE.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
-<animateTransform id="X2i9iRE0" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.875;0.9375;1" begin="0s; X2i9iRE0.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
-<animateTransform id="M6EMCbja" attributeName="transform" type="translate" values="-6.525000095367432,-28.202384071845746;-6.525000095367432,-28.202384071845746" keyTimes="0;1" begin="0s; M6EMCbja.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
-</text>
-                    <text x="500.3166742324829" y="42.30357610776862"> S<animateTransform id="bMawm5Xd" attributeName="transform" type="translate" values="16.975000381469727,28.202384071845746;16.975000381469727,28.202384071845746" keyTimes="0;1" begin="0s; bMawm5Xd.end  + 5s" dur="1.75s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
-<animateTransform id="HX2AM8PX" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.9375;1;1" begin="0s; HX2AM8PX.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
-<animateTransform id="L046PS7o" attributeName="transform" type="translate" values="-16.975000381469727,-28.202384071845746;-16.975000381469727,-28.202384071845746" keyTimes="0;1" begin="0s; L046PS7o.end  + 5s" dur="1.75s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
-</text>
+
                   </g>
                 </g>
               </g>
@@ -220,8 +209,8 @@
       <defs/>
       <defs>
         <linearGradient x1="0" y1="0" x2="0" y2="1" id="YjOzhiup_fill">
-          <stop offset="0" stop-color="#0D47A1FF"/>
-          <stop offset="1" stop-color="#00bcd4ff"/>
+          <stop offset="0" stop-color="#FF0000"/>
+          <stop offset="1" stop-color="#FF0000"/>
         </linearGradient>
       </defs>
       <g>
@@ -281,19 +270,19 @@
 <animateTransform id="grFVR1tz" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.5;0.55;1" begin="0s; grFVR1tz.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="aj2sHWwL" attributeName="transform" type="translate" values="-5.208333492279053,-13.238666841025639;-5.208333492279053,-13.238666841025639" keyTimes="0;1" begin="0s; aj2sHWwL.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="130.79999923706055" y="19.858000261538457">a <animateTransform id="fnPqvsKZ" attributeName="transform" type="translate" values="3.1500000953674316,13.238666841025639;3.1500000953674316,13.238666841025639" keyTimes="0;1" begin="0s; fnPqvsKZ.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="131.79999923706055" y="19.858000261538457">a <animateTransform id="fnPqvsKZ" attributeName="transform" type="translate" values="3.1500000953674316,13.238666841025639;3.1500000953674316,13.238666841025639" keyTimes="0;1" begin="0s; fnPqvsKZ.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="kAEK0JB2" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.55;0.6;1" begin="0s; kAEK0JB2.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="Mjogc1kO" attributeName="transform" type="translate" values="-3.1500000953674316,-13.238666841025639;-3.1500000953674316,-13.238666841025639" keyTimes="0;1" begin="0s; Mjogc1kO.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="141.09999942779541" y="19.858000261538457">t <animateTransform id="JwB0bsAI" attributeName="transform" type="translate" values="5.925000190734863,13.238666841025639;5.925000190734863,13.238666841025639" keyTimes="0;1" begin="0s; JwB0bsAI.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="143.09999942779541" y="19.858000261538457">t <animateTransform id="JwB0bsAI" attributeName="transform" type="translate" values="5.925000190734863,13.238666841025639;5.925000190734863,13.238666841025639" keyTimes="0;1" begin="0s; JwB0bsAI.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="LN7am1hk" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.6;0.65;1" begin="0s; LN7am1hk.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="BgzqSbwH" attributeName="transform" type="translate" values="-5.925000190734863,-13.238666841025639;-5.925000190734863,-13.238666841025639" keyTimes="0;1" begin="0s; BgzqSbwH.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="148.94999980926514" y="19.858000261538457">e <animateTransform id="qVvc12OE" attributeName="transform" type="translate" values="5.0916666984558105,13.238666841025639;5.0916666984558105,13.238666841025639" keyTimes="0;1" begin="0s; qVvc12OE.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="149.94999980926514" y="19.858000261538457">e <animateTransform id="qVvc12OE" attributeName="transform" type="translate" values="5.0916666984558105,13.238666841025639;5.0916666984558105,13.238666841025639" keyTimes="0;1" begin="0s; qVvc12OE.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="vkJRbjDn" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.65;0.7;1" begin="0s; vkJRbjDn.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="jUKNPCQm" attributeName="transform" type="translate" values="-5.0916666984558105,-13.238666841025639;-5.0916666984558105,-13.238666841025639" keyTimes="0;1" begin="0s; jUKNPCQm.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
-                    <text x="160.13333320617676" y="19.858000261538457">  <animateTransform id="NrezyQHJ" attributeName="transform" type="translate" values="2.6583333015441895,13.238666841025639;2.6583333015441895,13.238666841025639" keyTimes="0;1" begin="0s; NrezyQHJ.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
+                    <text x="161.13333320617676" y="19.858000261538457">  <animateTransform id="NrezyQHJ" attributeName="transform" type="translate" values="2.6583333015441895,13.238666841025639;2.6583333015441895,13.238666841025639" keyTimes="0;1" begin="0s; NrezyQHJ.end  + 5s" dur="3.5s" fill="freeze" additive="replace" calcMode="linear" keySplines=""/>
 <animateTransform id="A2NRaaZP" attributeName="transform" type="scale" values="0,0;0,0;1,1;1,1" keyTimes="0;0.7;0.75;1" begin="0s; A2NRaaZP.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 <animateTransform id="m5aATuhH" attributeName="transform" type="translate" values="-2.6583333015441895,-13.238666841025639;-2.6583333015441895,-13.238666841025639" keyTimes="0;1" begin="0s; m5aATuhH.end  + 5s" dur="3.5s" fill="freeze" additive="sum" calcMode="linear" keySplines=""/>
 </text>
