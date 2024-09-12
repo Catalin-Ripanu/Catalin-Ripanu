@@ -1,14 +1,14 @@
-<img src=https://github.com/CatalinACS/CatalinACS/raw/main/CatalinACS.svg/>
+<img src=https://github.com/Catalin-Ripanu/Catalin-Ripanu/raw/main/Catalin-Ripanu.svg/>
 
 An individual interested in Quantum Artificial Intelligence & Physics and all of their related fields, domains and directions.
 
-Website [here](https://CatalinACS.github.io/)
+Website [here](https://Catalin-Ripanu.github.io/)
 
-Curriculum Vitae [here](https://github.com/CatalinACS/curriculum-vitae/blob/main/__CV_CR_.pdf)
+Curriculum Vitae [here](https://github.com/Catalin-Ripanu/curriculum-vitae/blob/main/__CV_CR_.pdf)
 
 Relevant Education & Work Experience:
 
-- [Bachelor's Degree](https://github.com/CatalinACS/Bachelor_Thesis) in Computer Science @ Engineering (GPA: 3.92 / 4), POLYTECHNIC Univ. of Bucharest (2020 - 2024)
+- [Bachelor's Degree](https://github.com/Catalin-Ripanu/Bachelor_Thesis) in Computer Science @ Engineering (GPA: 3.92 / 4), POLYTECHNIC Univ. of Bucharest (2020 - 2024)
 
 - University Undergraduate Teaching Assistant, POLYTECHNIC Univ. of Bucharest (2022 - 2024)
 
@@ -22,54 +22,54 @@ Complete Coursework:
 
 - Bachelor's Degree
   - Year 1 (Seria CC, 2020 - 2021):
-    - Computer programming (PC, prof. Carmen Odubășteanu) [Homework1](https://github.com/CatalinACS/HW1_PC) [Homework2](https://github.com/CatalinACS/HW2_PC)
+    - Computer programming (PC, prof. Carmen Odubășteanu) [Homework1](https://github.com/Catalin-Ripanu/HW1_PC) [Homework2](https://github.com/Catalin-Ripanu/HW2_PC)
     - Use of Operating Systems (USO, prof. Răzvan Deaconescu)
     - Logical Design (PL, prof. Anca Morar)
     - Mathematics 1 / Mathematical Real Analysis (M1, prof. Mircea Olteanu)
     - Mathematics 2 / Linear Algebra, Analytic Geometry and Differential Equations (M2, prof. Adriana Bălan) 
-    - Introduction in Informatics (II, prof. Mihai Chiroiu) [Homework1](https://github.com/CatalinACS/HW1_II)
+    - Introduction in Informatics (II, prof. Mihai Chiroiu) [Homework1](https://github.com/Catalin-Ripanu/HW1_II)
     - Mathematics 3 / Complex Analysis & Probability Theory and Statistics (M3, prof. Luminița Costache)
-    - Computational Physics (FC, prof. Adrian Radu) [Homework1](https://github.com/CatalinACS/HW1_FC) [Homework2](https://github.com/CatalinACS/HW2_FC) [Homework3](https://github.com/CatalinACS/HW3_FC) [Homework4](https://github.com/CatalinACS/HW4_FC)
-    - Data Structures (SD, prof. Radu Șerban) [Homework1](https://github.com/CatalinACS/HW1_SD) [Homework2](https://github.com/CatalinACS/HW2_SD) [Homework3](https://github.com/CatalinACS/HW3_SD)
-    - Numerical Methods (MN, prof. Florin Pop) [Homework1](https://github.com/CatalinACS/HW1_MN)
+    - Computational Physics (FC, prof. Adrian Radu) [Homework1](https://github.com/Catalin-Ripanu/HW1_FC) [Homework2](https://github.com/Catalin-Ripanu/HW2_FC) [Homework3](https://github.com/Catalin-Ripanu/HW3_FC) [Homework4](https://github.com/Catalin-Ripanu/HW4_FC)
+    - Data Structures (SD, prof. Radu Șerban) [Homework1](https://github.com/Catalin-Ripanu/HW1_SD) [Homework2](https://github.com/Catalin-Ripanu/HW2_SD) [Homework3](https://github.com/Catalin-Ripanu/HW3_SD)
+    - Numerical Methods (MN, prof. Florin Pop) [Homework1](https://github.com/Catalin-Ripanu/HW1_MN)
   
   - Year 2 (Seria CC, 2021 - 2022)
-    - Analysis of Algorithms (AA, prof. Andrei Mogoș) [Homework](https://github.com/CatalinACS/HW_AA)
-    - Object Oriented Programming (POO, prof. Carmen Odubășteanu) | [Project](https://github.com/CatalinACS/Project_POO)
-    - Introduction in Computer Organisation and Assembly Language (IOCLA, prof. Răzvan Deaconescu) | [Homework1](https://github.com/CatalinACS/HW1_IOCLA) [Homework2](https://github.com/CatalinACS/HW2_IOCLA) [Homework3](https://github.com/CatalinACS/HW3_IOCLA)
+    - Analysis of Algorithms (AA, prof. Andrei Mogoș) [Homework](https://github.com/Catalin-Ripanu/HW_AA)
+    - Object Oriented Programming (POO, prof. Carmen Odubășteanu) | [Project](https://github.com/Catalin-Ripanu/Project_POO)
+    - Introduction in Computer Organisation and Assembly Language (IOCLA, prof. Răzvan Deaconescu) | [Homework1](https://github.com/Catalin-Ripanu/HW1_IOCLA) [Homework2](https://github.com/Catalin-Ripanu/HW2_IOCLA) [Homework3](https://github.com/Catalin-Ripanu/HW3_IOCLA)
     - Theory of Systems (TS, prof. Ioan-Cezar Corîci)
     - Mathematics 4 / Discrete Mathematics (M4, prof. Mircea Sularia)
     - Analog Electronics (EEA, prof. Daniel Rosner)
     - Digital Electronics (ED, prof. Constantin Ilaș)
     - Data Acquisition (ADIV, prof. Cristina Sărăcin)
     - Mathematics 5 / Fractal Theory (M5, prof. Radu Ursianu)
-    - Design of Algorithms (PA, prof. Costin Chiru) | [Project](https://github.com/CatalinACS/Project_PA) [Homework1](https://github.com/CatalinACS/HW1_PA) [Homework2](https://github.com/CatalinACS/HW2_PA)
-    - Programming Paradigms (PP, prof. Andrei Olaru) | [Homework1](https://github.com/CatalinACS/HW1_PP) [Homework2](https://github.com/CatalinACS/HW2_PP) [Homework3](https://github.com/CatalinACS/HW3_PP)
-    - Networking Communication Protocols (PCom, prof. Ciprian Dobre) | [Homework1](https://github.com/CatalinACS/HW1_PCOM) [Homework2](https://github.com/CatalinACS/HW2_PCOM) [Homework3](https://github.com/CatalinACS/HW3_PCOM)
+    - Design of Algorithms (PA, prof. Costin Chiru) | [Project](https://github.com/Catalin-Ripanu/Project_PA) [Homework1](https://github.com/Catalin-Ripanu/HW1_PA) [Homework2](https://github.com/Catalin-Ripanu/HW2_PA)
+    - Programming Paradigms (PP, prof. Andrei Olaru) | [Homework1](https://github.com/Catalin-Ripanu/HW1_PP) [Homework2](https://github.com/Catalin-Ripanu/HW2_PP) [Homework3](https://github.com/Catalin-Ripanu/HW3_PP)
+    - Networking Communication Protocols (PCom, prof. Ciprian Dobre) | [Homework1](https://github.com/Catalin-Ripanu/HW1_PCOM) [Homework2](https://github.com/Catalin-Ripanu/HW2_PCOM) [Homework3](https://github.com/Catalin-Ripanu/HW3_PCOM)
     - Numerical Computers 1 (CN1, prof. Nirvana Popescu)
   
   - Year 3 (Seria CC, 2022 - 2023)
-    - Parallel and Distributed Algorithms (APD, prof. Radu Ciobanu) | [Homework1](https://github.com/CatalinACS/HW1_APD) [Homework2](https://github.com/CatalinACS/HW2_APD) [Homework3](https://github.com/CatalinACS/HW3_APD)
-    - Formal Languages and Automata (LFA, prof. Iarina Mocanu) | [Homework](https://github.com/CatalinACS/HW_LFA)
+    - Parallel and Distributed Algorithms (APD, prof. Radu Ciobanu) | [Homework1](https://github.com/Catalin-Ripanu/HW1_APD) [Homework2](https://github.com/Catalin-Ripanu/HW2_APD) [Homework3](https://github.com/Catalin-Ripanu/HW3_APD)
+    - Formal Languages and Automata (LFA, prof. Iarina Mocanu) | [Homework](https://github.com/Catalin-Ripanu/HW_LFA)
     - Local Networks (RL, prof. Răzvan Rughiniș)
-    - Numerical Computers 2 (CN2, prof. Decebal Popescu) | [Homework](https://github.com/CatalinACS/HW_CN2)
-    - Elements of Computer Graphics (EGC, prof. Victor Asavei) | [Homework1](https://github.com/CatalinACS/HW1_EGC) [Homework2](https://github.com/CatalinACS/HW2_EGC) [Homework3](https://github.com/CatalinACS/HW3_EGC)
+    - Numerical Computers 2 (CN2, prof. Decebal Popescu) | [Homework](https://github.com/Catalin-Ripanu/HW_CN2)
+    - Elements of Computer Graphics (EGC, prof. Victor Asavei) | [Homework1](https://github.com/Catalin-Ripanu/HW1_EGC) [Homework2](https://github.com/Catalin-Ripanu/HW2_EGC) [Homework3](https://github.com/Catalin-Ripanu/HW3_EGC)
     - Mathematics 6 / Functional Analysis (M6, prof. Luminița Costache)
-    - Design with Micro-Processors (PM, prof. Daniel Rosner) | [Project](https://github.com/CatalinACS/Project_PM)
-    - Computer Architectures (ASC, prof. Voichița Iancu) | [Homework1](https://github.com/CatalinACS/HW1_ASC) [Homework2](https://github.com/CatalinACS/HW2_ASC) [Homework3](https://github.com/CatalinACS/HW3_ASC)
-    - Operating Systems (SO, prof. Răzvan Deaconescu) | [Homework1](https://github.com/CatalinACS/HW1_SO) [Homework2](https://github.com/CatalinACS/HW2_SO) [Homework3](https://github.com/CatalinACS/HW3_SO) [Homework4](https://github.com/CatalinACS/HW4_SO)
-    - Software Engineering (IP, prof. Florica Moldoveanu) | [Project](https://github.com/CatalinACS/HW1_IP)
+    - Design with Micro-Processors (PM, prof. Daniel Rosner) | [Project](https://github.com/Catalin-Ripanu/Project_PM)
+    - Computer Architectures (ASC, prof. Voichița Iancu) | [Homework1](https://github.com/Catalin-Ripanu/HW1_ASC) [Homework2](https://github.com/Catalin-Ripanu/HW2_ASC) [Homework3](https://github.com/Catalin-Ripanu/HW3_ASC)
+    - Operating Systems (SO, prof. Răzvan Deaconescu) | [Homework1](https://github.com/Catalin-Ripanu/HW1_SO) [Homework2](https://github.com/Catalin-Ripanu/HW2_SO) [Homework3](https://github.com/Catalin-Ripanu/HW3_SO) [Homework4](https://github.com/Catalin-Ripanu/HW4_SO)
+    - Software Engineering (IP, prof. Florica Moldoveanu) | [Project](https://github.com/Catalin-Ripanu/HW1_IP)
     - Data Basis 1 (BD1, prof. Alexandru Boicea)
   
   - Year 4 (Seria C3, 2023 - 2024)
-    - Artificial Intelligence (IA - C3, prof. Adina Florea) | [Homework1](https://github.com/CatalinACS/HW1_IA) [Homework2](https://github.com/CatalinACS/HW2_IA)
-    - Compilers (CPL - C3, prof. Mihnea Muraru) | [Homework1](https://github.com/CatalinACS/HW1_CPL) [Homework2](https://github.com/CatalinACS/HW2_CPL)
-    - Parallel Architectures and Manipulations (APP - C1, prof. Nicolae Țăpuș) | [Homework1](https://github.com/CatalinACS/HW1_APP)
-    - Design of Private Neural Networks and Privacy (PR - C1, prof. Răzvan Rughiniș) | [Homework1](https://github.com/CatalinACS/HW1_PR)
-    - Systems of Programs for Computer Networks (SPRC - C3, prof. Florin Pop) | [Homework1](https://github.com/CatalinACS/HW1_SPRC) [Homework2](https://github.com/CatalinACS/HW2_SPRC) [Homework3](https://github.com/CatalinACS/HW3_SPRC)
-    - Machine Learning (ÎAut - C4, prof. Adina Florea) | [Homework1](https://github.com/CatalinACS/HW1_IAut) [Homework2](https://github.com/CatalinACS/HW2_IAut)
-    - Operating Systems 2 (SO2 - C3, prof. Alex Radovici & prof. Răzvan Deaconescu) | [Homework1](https://github.com/CatalinACS/HW1_SO2) [Homework2](https://github.com/CatalinACS/HW2_SO2) [Homework3](https://github.com/CatalinACS/HW3_SO2) [Homework4](https://github.com/CatalinACS/HW4_SO2) [Homework5](https://github.com/CatalinACS/HW5_SO2)
-    - Instruments for Software Development (IDP - C3, prof. Cătălin Goșman) | [Homework1](https://github.com/CatalinACS/HW1_IDP)
+    - Artificial Intelligence (IA - C3, prof. Adina Florea) | [Homework1](https://github.com/Catalin-Ripanu/HW1_IA) [Homework2](https://github.com/Catalin-Ripanu/HW2_IA)
+    - Compilers (CPL - C3, prof. Mihnea Muraru) | [Homework1](https://github.com/Catalin-Ripanu/HW1_CPL) [Homework2](https://github.com/Catalin-Ripanu/HW2_CPL)
+    - Parallel Architectures and Manipulations (APP - C1, prof. Nicolae Țăpuș) | [Homework1](https://github.com/Catalin-Ripanu/HW1_APP)
+    - Design of Private Neural Networks and Privacy (PR - C1, prof. Răzvan Rughiniș) | [Homework1](https://github.com/Catalin-Ripanu/HW1_PR)
+    - Systems of Programs for Computer Networks (SPRC - C3, prof. Florin Pop) | [Homework1](https://github.com/Catalin-Ripanu/HW1_SPRC) [Homework2](https://github.com/Catalin-Ripanu/HW2_SPRC) [Homework3](https://github.com/Catalin-Ripanu/HW3_SPRC)
+    - Machine Learning (ÎAut - C4, prof. Adina Florea) | [Homework1](https://github.com/Catalin-Ripanu/HW1_IAut) [Homework2](https://github.com/Catalin-Ripanu/HW2_IAut)
+    - Operating Systems 2 (SO2 - C3, prof. Alex Radovici & prof. Răzvan Deaconescu) | [Homework1](https://github.com/Catalin-Ripanu/HW1_SO2) [Homework2](https://github.com/Catalin-Ripanu/HW2_SO2) [Homework3](https://github.com/Catalin-Ripanu/HW3_SO2) [Homework4](https://github.com/Catalin-Ripanu/HW4_SO2) [Homework5](https://github.com/Catalin-Ripanu/HW5_SO2)
+    - Instruments for Software Development (IDP - C3, prof. Cătălin Goșman) | [Homework1](https://github.com/Catalin-Ripanu/HW1_IDP)
    
 - Master's Degree:
   - TODO
