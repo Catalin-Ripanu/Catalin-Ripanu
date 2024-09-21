@@ -22,7 +22,7 @@ Complete Coursework:
 
 - Bachelor's Degree
   - Year 1 (Seria CC, 2020 - 2021):
-    - Computer programming (PC, prof. Carmen Odubășteanu) [Homework1](https://github.com/Catalin-Ripanu/HW1_PC) [Homework2](https://github.com/Catalin-Ripanu/HW2_PC)
+    - Computer programming (PC, prof. Carmen Odubășteanu)
     - Use of Operating Systems (USO, prof. Răzvan Deaconescu)
     - Logical Design (PL, prof. Anca Morar)
     - Mathematics 1 / Mathematical Real Analysis (M1, prof. Mircea Olteanu)
