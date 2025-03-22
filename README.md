@@ -35,10 +35,10 @@ Complete Coursework:
     - Logical Design (PL, prof. Anca Morar)
     - Mathematics 1 / Mathematical Real Analysis (M1, prof. Mircea Olteanu)
     - Mathematics 2 / Linear Algebra, Analytic Geometry and Differential Equations (M2, prof. Adriana Bălan) 
-    - Introduction in Informatics (II, prof. Mihai Chiroiu) [Flask Python webiste](https://github.com/Catalin-Ripanu/HW1_II)
+    - Introduction in Informatics (II, prof. Mihai Chiroiu) [Python website using Flask](https://github.com/Catalin-Ripanu/HW1_II)
     - Mathematics 3 / Complex Analysis & Probability Theory and Statistics (M3, prof. Luminița Costache)
     - Computational Physics (FC, prof. Adrian Radu) [Ballistic Curve](https://github.com/Catalin-Ripanu/HW1_FC) | [Double Gravitational Pendulum](https://github.com/Catalin-Ripanu/HW2_FC) | [Reflection and Refraction of a Pulse at the Interface Between Two Elastic Media](https://github.com/Catalin-Ripanu/HW3_FC) | [Relevance of Quantum Well Width](https://github.com/Catalin-Ripanu/HW4_FC)
-    - Data Structures (SD, prof. Radu Șerban) [Mini Vim Editor using Lists](https://github.com/Catalin-Ripanu/HW1_SD) | [AND-OR Trees](https://github.com/Catalin-Ripanu/HW2_SD) | [Actors Relationship using Graphs](https://github.com/Catalin-Ripanu/HW3_SD)
+    - Data Structures (SD, prof. Radu Șerban) [Mini Vim Editor using Lists](https://github.com/Catalin-Ripanu/HW1_SD) | [AND-OR Trees with the Minimax Algorithm](https://github.com/Catalin-Ripanu/HW2_SD) | [Actors Relationship using Graphs](https://github.com/Catalin-Ripanu/HW3_SD)
     - Numerical Methods (MN, prof. Florin Pop) [Image Processing using Nearest Neighbors and Bicubic Interpolation](https://github.com/Catalin-Ripanu/HW1_MN)
   
   - Year 2 (CC, 2021 - 2022)
