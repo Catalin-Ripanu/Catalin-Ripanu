@@ -4,7 +4,7 @@ An individual interested in Quantum Artificial Intelligence & Physics and all of
 
 Website [here](https://Catalin-Ripanu.github.io/)
 
-Curriculum Vitae [here](https://github.com/Catalin-Ripanu/curriculum-vitae/blob/main/__CV_CR_.pdf)
+Curriculum Vitae [here](https://github.com/Catalin-Ripanu/curriculum-vitae/blob/main/__CV_CR__.pdf)
 
 Now:
 
