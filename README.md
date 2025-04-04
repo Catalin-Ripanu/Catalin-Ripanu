@@ -25,7 +25,7 @@ Complete Coursework:
     - Knowledge Representation and Reasoning (KRR - AI, prof. Adina Florea) | [Theoretical Homework of Bayesian Networks](https://github.com/Catalin-Ripanu/HW1_KRR) | [Expectation Maximization Project](https://github.com/Catalin-Ripanu/HW2_KRR)
     - Neural Networks (NN - AI, prof. Alexandru Sorici) | [Convolutional Neural Networks for ImageNette](https://github.com/Catalin-Ripanu/HW1_NN) | [Recurrent Neural Networks and LSTMs for Language Translation](https://github.com/Catalin-Ripanu/HW2_NN) | [Transformers for generating Shakespearean Lines](https://github.com/Catalin-Ripanu/HW3_NN)
     - Computer Vision (CV - AI, prof. Marius Leordeanu) | [About Quantum Convolutional Neural Networks](https://github.com/Catalin-Ripanu/HW1_CV) |  [Image Processing with Filters](https://github.com/Catalin-Ripanu/HW2_CV) | [Image Processing with Connected Components and Hue Thresholding](https://github.com/Catalin-Ripanu/HW3_CV) | [Panorama Image Stitching with Feature Detection](https://github.com/Catalin-Ripanu/HW4_CV) | [Face Detection using SVD (Singular Value Decomposition)](https://github.com/Catalin-Ripanu/HW5_CV)
-    - Type Systems and Functional Programming (TSFP - group G, prof. Mihnea Muraru) [Lambda Expression Parser for SystemF](https://github.com/Catalin-Ripanu/Labs_TSFP)
+    - Type Systems and Functional Programming (TSFP - group G, prof. Mihnea Muraru) [Lambda Expression Parser for SystemF in Haskell](https://github.com/Catalin-Ripanu/Labs_TSFP)
     - Scientific Research Report I (CS1 - AI) [Quantum Federated Learning using multiple QCNNs for Synthetic Quantum Data Classification](https://github.com/Catalin-Ripanu/Research_Report_I)
 
 - Bachelor's Degree
