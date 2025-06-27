@@ -29,7 +29,7 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 
 ## 📖 Complete Coursework
 
-### 🧠 Master's Degree - Year 5 (AI, 2024-2025)
+### 🎓 Master's Degree - Year 5 (AI, 2024-2025, ACS-UPB)
 
 #### Knowledge Representation and Reasoning (KRR)
 - [📊 Theoretical Homework of Bayesian Networks](https://github.com/Catalin-Ripanu/HW1_KRR)
@@ -55,7 +55,7 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 
 ---
 
-### 🎓 Bachelor's Degree
+### 🎓 Bachelor's Degree (CC, 2020 - 2024, ACS-UPB)
 
 <details>
 <summary><strong>📅 Year 1 (CC, 2020-2021)</strong></summary>
@@ -216,5 +216,5 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 ---
 
 <div align="center">
-  <i>🌟 Exploring the intersection of Quantum Computing and Artificial Intelligence 🌟</i>
+  <i> Exploring the intersection of Quantum Computing and Artificial Intelligence </i>
 </div>
