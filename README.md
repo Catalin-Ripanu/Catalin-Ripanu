@@ -1,5 +1,3 @@
-# Catalin Ripanu
-
 <img src="https://github.com/Catalin-Ripanu/Catalin-Ripanu/raw/main/Catalin-Ripanu.svg" alt="Profile Banner" width="100%"/>
 
 ## About Me
