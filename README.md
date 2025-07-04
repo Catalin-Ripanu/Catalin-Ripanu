@@ -11,11 +11,11 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 ## Education & Experience
 
 - **Master's Degree in Artificial Intelligence** - POLYTECHNIC University of Bucharest (2024 - 2026)
-  - **Graduate Teaching & Research Assistant Collaborator of [AI-MAS Lab](https://aimas.cs.pub.ro/)**
+  - **Graduate Teaching Research Assistant and Collaborator of [AI-MAS Lab](https://aimas.cs.pub.ro/)** (2024 - present)
 
 - **[Bachelor's Degree in Computer Science & Engineering](https://github.com/Catalin-Ripanu/Bachelor_Thesis)** - POLYTECHNIC University of Bucharest (2020 - 2024)
   - **GPA: 3.92/4.0**
-  - **Undergraduate Teaching Assistant**
+  - **Undergraduate Teaching Assistant** (2022 - 2024)
 
 ---
 
