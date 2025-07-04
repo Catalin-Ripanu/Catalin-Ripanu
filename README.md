@@ -8,18 +8,14 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 
 ---
 
-## Current Status
-
-- **Master's Degree in Artificial Intelligence** - POLYTECHNIC University of Bucharest (2024 - 2026)
-- **Graduate Teaching & Research Assistant** - POLYTECHNIC University of Bucharest (2024 - Present)
-
----
-
 ## Education & Experience
 
+- **Master's Degree in Artificial Intelligence** - POLYTECHNIC University of Bucharest (2024 - 2026)
+  - **Graduate Teaching & Research Assistant Collaborator of [AI-MAS Lab](https://aimas.cs.pub.ro/)**
+
 - **[Bachelor's Degree in Computer Science & Engineering](https://github.com/Catalin-Ripanu/Bachelor_Thesis)** - POLYTECHNIC University of Bucharest (2020 - 2024)
-  - GPA: 3.92/4.0
-  - **Undergraduate Teaching Assistant** - POLYTECHNIC University of Bucharest (2022 - 2024)
+  - **GPA: 3.92/4.0**
+  - **Undergraduate Teaching Assistant**
 
 ---
 
@@ -84,6 +80,12 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 <details>
 <summary><strong>Year 2 (CC, 2021-2022)</strong></summary>
 
+#### Additional Courses
+- **Theory of Systems (TS)**
+- **Mathematics 4** - Discrete Mathematics (M4)
+- **Mathematics 5** - Fractal Theory (M5)
+- **Analog Electronics (EEA)** | **Digital Electronics (ED)** | **Data Acquisition (ADIV)** | **Numerical Computers 1 (CN1)**
+
 #### Algorithm Analysis & Design
 - **Analysis of Algorithms (AA)** - [Algorithmic Problems](https://github.com/Catalin-Ripanu/Algorithms_Analysis)
 - **Design of Algorithms (PA)**
@@ -97,37 +99,37 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
   - [Minimal Linux File System](https://github.com/Catalin-Ripanu/Minimal_Linux_File_System)
   - [x86 32bit Assembly with NASM](https://github.com/Catalin-Ripanu/NASM_Practice)
   - [x86 64bit Assembly with NASM](https://github.com/Catalin-Ripanu/64bit_NASM)
-
-#### Programming Paradigms (PP)
-- [Pythagorean Triples in Racket](https://github.com/Catalin-Ripanu/Racket_Pythagorean_Triples)
-- [Implementation of Graph Algorithms in Haskell](https://github.com/Catalin-Ripanu/Haskell_Graph_Zoo)
-- [Ultimate Tic-Tac-Toe in Prolog](https://github.com/Catalin-Ripanu/Prolog_Ultimate_Tic_Tac_Toe)
+- **Programming Paradigms (PP)**
+  - [Pythagorean Triples in Racket](https://github.com/Catalin-Ripanu/Racket_Pythagorean_Triples)
+  - [Implementation of Graph Algorithms in Haskell](https://github.com/Catalin-Ripanu/Haskell_Graph_Zoo)
+  - [Ultimate Tic-Tac-Toe in Prolog](https://github.com/Catalin-Ripanu/Prolog_Ultimate_Tic_Tac_Toe)
 
 #### Networking Communication Protocols (PCom)
 - [C++ Router Implementation](https://github.com/Catalin-Ripanu/Router)
 - [Application-Layer Protocol Design](https://github.com/Catalin-Ripanu/Application_Protocol)
 - [Client-Server Interaction Using a REST API](https://github.com/Catalin-Ripanu/REST_API_Client_Server)
 
-#### Additional Courses
-- **Theory of Systems (TS)** | **Mathematics 4** - Discrete Mathematics (M4) | **Mathematics 5** - Fractal Theory (M5)
-- **Analog Electronics (EEA)** | **Digital Electronics (ED)** | **Data Acquisition (ADIV)** | **Numerical Computers 1 (CN1)**
-
 </details>
 
 <details>
 <summary><strong>Year 3 (CC, 2022-2023)</strong></summary>
 
-#### Parallel and Distributed Computing
-- **Parallel and Distributed Algorithms (APD)**
-  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APD)
-  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_APD)
-  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_APD)
+#### Additional Courses
+- **Formal Languages and Automata (LFA)** - [Homework](https://github.com/Catalin-Ripanu/HW_LFA)
+- **Numerical Computers 2 (CN2)** - [Homework](https://github.com/Catalin-Ripanu/HW_CN2)
+- **Local Networks (RL)**
+- **Mathematics 6** - Functional Analysis (M6)
+- **Data Basis 1 (BD1)**
 
-#### Computer Systems & Architecture
-- **Computer Architectures (ASC)**
-  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_ASC)
-  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_ASC)
-  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_ASC)
+#### Parallel and Distributed Algorithms (APD)
+- [Homework 1](https://github.com/Catalin-Ripanu/HW1_APD)
+- [Homework 2](https://github.com/Catalin-Ripanu/HW2_APD)
+- [Homework 3](https://github.com/Catalin-Ripanu/HW3_APD)
+
+#### Computer Architectures (ASC)
+- [Homework 1](https://github.com/Catalin-Ripanu/HW1_ASC)
+- [Homework 2](https://github.com/Catalin-Ripanu/HW2_ASC)
+- [Homework 3](https://github.com/Catalin-Ripanu/HW3_ASC)
 
 #### Operating Systems (SO)
 - [Homework 1](https://github.com/Catalin-Ripanu/HW1_SO)
@@ -145,11 +147,6 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 #### Software Development
 - **Software Engineering (IP)** - [Project](https://github.com/Catalin-Ripanu/HW1_IP)
 
-#### Additional Courses
-- **Formal Languages and Automata (LFA)** - [Homework](https://github.com/Catalin-Ripanu/HW_LFA)
-- **Numerical Computers 2 (CN2)** - [Homework](https://github.com/Catalin-Ripanu/HW_CN2)
-- **Local Networks (RL)** | **Mathematics 6** - Functional Analysis (M6) | **Data Basis 1 (BD1)**
-
 </details>
 
 <details>
@@ -163,28 +160,25 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
   - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IAut)
   - [Homework 2](https://github.com/Catalin-Ripanu/HW2_IAut)
 
-#### Advanced Programming & Compilers
-- **Compilers (CPL)**
-  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_CPL)
-  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_CPL)
+#### Compilers (CPL)
+- [Homework 1](https://github.com/Catalin-Ripanu/HW1_CPL)
+- [Homework 2](https://github.com/Catalin-Ripanu/HW2_CPL)
 
 #### Specialized Systems
 - **Parallel Architectures and Manipulations (APP)** - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APP)
 - **Design of Private Neural Networks and Privacy (PR)** - [Homework 1](https://github.com/Catalin-Ripanu/HW1_PR)
 
-#### Network Programming
-- **Systems of Programs for Computer Networks (SPRC)**
-  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_SPRC)
-  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_SPRC)
-  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_SPRC)
+#### Systems of Programs for Computer Networks (SPRC)
+- [Homework 1](https://github.com/Catalin-Ripanu/HW1_SPRC)
+- [Homework 2](https://github.com/Catalin-Ripanu/HW2_SPRC)
+- [Homework 3](https://github.com/Catalin-Ripanu/HW3_SPRC)
 
-#### Advanced Operating Systems
-- **Operating Systems 2 (SO2)**
-  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_SO2)
-  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_SO2)
-  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO2)
-  - [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO2)
-  - [Homework 5](https://github.com/Catalin-Ripanu/HW5_SO2)
+#### Operating Systems 2 (SO2)
+- [Homework 1](https://github.com/Catalin-Ripanu/HW1_SO2)
+- [Homework 2](https://github.com/Catalin-Ripanu/HW2_SO2)
+- [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO2)
+- [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO2)
+- [Homework 5](https://github.com/Catalin-Ripanu/HW5_SO2)
 
 #### Software Development Tools
 - **Instruments for Software Development (IDP)** - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IDP)
