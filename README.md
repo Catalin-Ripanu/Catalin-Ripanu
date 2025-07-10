@@ -103,11 +103,10 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
   - [Pythagorean Triples in Racket](https://github.com/Catalin-Ripanu/Racket_Pythagorean_Triples)
   - [Implementation of Graph Algorithms in Haskell](https://github.com/Catalin-Ripanu/Haskell_Graph_Zoo)
   - [Ultimate Tic-Tac-Toe in Prolog](https://github.com/Catalin-Ripanu/Prolog_Ultimate_Tic_Tac_Toe)
-
-#### Networking Communication Protocols (PCom)
-- [C++ Router Implementation](https://github.com/Catalin-Ripanu/Router)
-- [Application-Layer Protocol Design](https://github.com/Catalin-Ripanu/Application_Protocol)
-- [Client-Server Interaction Using a REST API](https://github.com/Catalin-Ripanu/REST_API_Client_Server)
+- **Networking Communication Protocols (PCom)**
+  - [C++ Router Implementation](https://github.com/Catalin-Ripanu/Router)
+  - [Application-Layer Protocol Design](https://github.com/Catalin-Ripanu/Application_Protocol)
+  - [Client-Server Interaction Using a REST API](https://github.com/Catalin-Ripanu/REST_API_Client_Server)
 
 </details>
 
