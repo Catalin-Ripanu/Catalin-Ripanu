@@ -87,7 +87,8 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 - **Analog Electronics (EEA)** | **Digital Electronics (ED)** | **Data Acquisition (ADIV)** | **Numerical Computers 1 (CN1)**
 
 #### Algorithm Analysis & Design
-- **Analysis of Algorithms (AA)** - [Algorithmic Problems](https://github.com/Catalin-Ripanu/Algorithms_Analysis)
+- **Analysis of Algorithms (AA)**
+  - [Algorithmic Problems](https://github.com/Catalin-Ripanu/Algorithms_Analysis)
 - **Design of Algorithms (PA)**
   - [Halite-Bot Project](https://github.com/Catalin-Ripanu/Halite_Bot)
   - [Solved Algorithmic Problems (Set-I)](https://github.com/Catalin-Ripanu/Algo_Problems_Set_I)
@@ -120,6 +121,10 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 - **Mathematics 6** - Functional Analysis (M6)
 - **Data Basis 1 (BD1)**
 
+#### Design with Micro-Processors (PM) - [Enigma Machine](https://github.com/Catalin-Ripanu/Enigma_Machine)
+
+#### Software Engineering (IP) - [Project](https://github.com/Catalin-Ripanu/HW1_IP)
+
 #### Parallel and Distributed Algorithms (APD)
 - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APD)
 - [Homework 2](https://github.com/Catalin-Ripanu/HW2_APD)
@@ -136,15 +141,10 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 - [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO)
 - [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO)
 
-#### Graphics & Hardware
-- **Elements of Computer Graphics (EGC)**
+#### Elements of Computer Graphics (EGC)
   - [Homework 1](https://github.com/Catalin-Ripanu/HW1_EGC)
   - [Homework 2](https://github.com/Catalin-Ripanu/HW2_EGC)
   - [Homework 3](https://github.com/Catalin-Ripanu/HW3_EGC)
-- **Design with Micro-Processors (PM)** - [Enigma Machine](https://github.com/Catalin-Ripanu/Enigma_Machine)
-
-#### Software Development
-- **Software Engineering (IP)** - [Project](https://github.com/Catalin-Ripanu/HW1_IP)
 
 </details>
 
@@ -158,14 +158,16 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 - **Machine Learning (ÎnvAut)**
   - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IAut)
   - [Homework 2](https://github.com/Catalin-Ripanu/HW2_IAut)
+ 
+#### Instruments for Software Development (IDP) - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IDP)
+
+#### Parallel Architectures and Manipulations (APP) - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APP)
+
+#### Design of Private Neural Networks and Privacy (PR) - [Homework 1](https://github.com/Catalin-Ripanu/HW1_PR)
 
 #### Compilers (CPL)
 - [Homework 1](https://github.com/Catalin-Ripanu/HW1_CPL)
 - [Homework 2](https://github.com/Catalin-Ripanu/HW2_CPL)
-
-#### Specialized Systems
-- **Parallel Architectures and Manipulations (APP)** - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APP)
-- **Design of Private Neural Networks and Privacy (PR)** - [Homework 1](https://github.com/Catalin-Ripanu/HW1_PR)
 
 #### Systems of Programs for Computer Networks (SPRC)
 - [Homework 1](https://github.com/Catalin-Ripanu/HW1_SPRC)
@@ -178,9 +180,6 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 - [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO2)
 - [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO2)
 - [Homework 5](https://github.com/Catalin-Ripanu/HW5_SO2)
-
-#### Software Development Tools
-- **Instruments for Software Development (IDP)** - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IDP)
 
 </details>
 
