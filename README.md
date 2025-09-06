@@ -95,7 +95,8 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
   - [Solved Algorithmic Problems (Set-II)](https://github.com/Catalin-Ripanu/Algo_Problems_Set_II)
 
 #### Programming & Systems
-- **Object Oriented Programming (POO)** - [Role-Playing Game (RPG)](https://github.com/Catalin-Ripanu/Adventure_Time)
+- **Object Oriented Programming (POO)**
+  - [Role-Playing Game (RPG)](https://github.com/Catalin-Ripanu/Adventure_Time)
 - **Introduction in Computer Organisation and Assembly Language (IOCLA)**
   - [Minimal Linux File System](https://github.com/Catalin-Ripanu/Minimal_Linux_File_System)
   - [x86 32bit Assembly with NASM](https://github.com/Catalin-Ripanu/NASM_Practice)
@@ -115,31 +116,36 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
 <summary><strong>Year 3 (CC, 2022-2023)</strong></summary>
 
 #### Additional Courses
-- **Formal Languages and Automata (LFA)** - [Homework](https://github.com/Catalin-Ripanu/HW_LFA)
-- **Numerical Computers 2 (CN2)** - [Homework](https://github.com/Catalin-Ripanu/HW_CN2)
 - **Local Networks (RL)**
 - **Mathematics 6** - Functional Analysis (M6)
 - **Data Basis 1 (BD1)**
 
-#### Design with Micro-Processors (PM) - [Enigma Machine](https://github.com/Catalin-Ripanu/Enigma_Machine)
+#### Formal Languages and Automata (LFA)
+  - [Homework](https://github.com/Catalin-Ripanu/HW_LFA)
+#### Numerical Computers 2 (CN2)
+  - [Homework](https://github.com/Catalin-Ripanu/HW_CN2)
 
-#### Software Engineering (IP) - [Project](https://github.com/Catalin-Ripanu/HW1_IP)
+#### Design with Micro-Processors (PM)
+  - [Enigma Machine](https://github.com/Catalin-Ripanu/Enigma_Machine)
+
+#### Software Engineering (IP)
+  - [Project](https://github.com/Catalin-Ripanu/HW1_IP)
 
 #### Parallel and Distributed Algorithms (APD)
-- [Homework 1](https://github.com/Catalin-Ripanu/HW1_APD)
-- [Homework 2](https://github.com/Catalin-Ripanu/HW2_APD)
-- [Homework 3](https://github.com/Catalin-Ripanu/HW3_APD)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APD)
+  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_APD)
+  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_APD)
 
 #### Computer Architectures (ASC)
-- [Homework 1](https://github.com/Catalin-Ripanu/HW1_ASC)
-- [Homework 2](https://github.com/Catalin-Ripanu/HW2_ASC)
-- [Homework 3](https://github.com/Catalin-Ripanu/HW3_ASC)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_ASC)
+  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_ASC)
+  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_ASC)
 
 #### Operating Systems (SO)
-- [Homework 1](https://github.com/Catalin-Ripanu/HW1_SO)
-- [Homework 2](https://github.com/Catalin-Ripanu/HW2_SO)
-- [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO)
-- [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_SO)
+  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_SO)
+  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO)
+  - [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO)
 
 #### Elements of Computer Graphics (EGC)
   - [Homework 1](https://github.com/Catalin-Ripanu/HW1_EGC)
@@ -159,27 +165,30 @@ An individual interested in **Quantum Artificial Intelligence & Physics**.
   - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IAut)
   - [Homework 2](https://github.com/Catalin-Ripanu/HW2_IAut)
  
-#### Instruments for Software Development (IDP) - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IDP)
+#### Instruments for Software Development (IDP)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_IDP)
 
-#### Parallel Architectures and Manipulations (APP) - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APP)
+#### Parallel Architectures and Manipulations (APP)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_APP)
 
-#### Design of Private Neural Networks and Privacy (PR) - [Homework 1](https://github.com/Catalin-Ripanu/HW1_PR)
+#### Design of Private Neural Networks and Privacy (PR)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_PR)
 
 #### Compilers (CPL)
-- [Homework 1](https://github.com/Catalin-Ripanu/HW1_CPL)
-- [Homework 2](https://github.com/Catalin-Ripanu/HW2_CPL)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_CPL)
+  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_CPL)
 
 #### Systems of Programs for Computer Networks (SPRC)
-- [Homework 1](https://github.com/Catalin-Ripanu/HW1_SPRC)
-- [Homework 2](https://github.com/Catalin-Ripanu/HW2_SPRC)
-- [Homework 3](https://github.com/Catalin-Ripanu/HW3_SPRC)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_SPRC)
+  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_SPRC)
+  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_SPRC)
 
 #### Operating Systems 2 (SO2)
-- [Homework 1](https://github.com/Catalin-Ripanu/HW1_SO2)
-- [Homework 2](https://github.com/Catalin-Ripanu/HW2_SO2)
-- [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO2)
-- [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO2)
-- [Homework 5](https://github.com/Catalin-Ripanu/HW5_SO2)
+  - [Homework 1](https://github.com/Catalin-Ripanu/HW1_SO2)
+  - [Homework 2](https://github.com/Catalin-Ripanu/HW2_SO2)
+  - [Homework 3](https://github.com/Catalin-Ripanu/HW3_SO2)
+  - [Homework 4](https://github.com/Catalin-Ripanu/HW4_SO2)
+  - [Homework 5](https://github.com/Catalin-Ripanu/HW5_SO2)
 
 </details>
 
